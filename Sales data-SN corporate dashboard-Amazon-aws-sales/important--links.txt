@@ -1,0 +1,9 @@
+aws sales
+html link;-
+https://app.powerbi.com/reportEmbed?reportId=027d038f-9495-4553-bdf0-e123fe1972f9&autoAuth=true&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3
+html code
+<iframe title="ANSH-AWS-SAAS-SALES-DASHBOARD - Copy" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=027d038f-9495-4553-bdf0-e123fe1972f9&autoAuth=true&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3" frameborder="0" allowFullScreen="true"></iframe>
+
+ppt link 
+https://app.powerbi.com/groups/me/reports/027d038f-9495-4553-bdf0-e123fe1972f9/c7f1ffa4342f30a7741f?bookmarkGuid=ef662e87-c91c-4009-a529-bec95262b0e4&bookmarkUsage=1&ctid=0ed51ad7-52cc-4234-b54a-76b82d40b5c3&portalSessionId=62fb89ce-f060-486c-9cd0-529a7bc46937&fromEntryPoint=export
+
